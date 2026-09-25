@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-berkscounty",
   "title": "Arcgis Berkscounty",
   "description": "Berks County GIS — Berks County, Pennsylvania open geospatial data (ArcGIS).",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-berkscounty",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-berkscounty",

@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-berkscounty",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Berks County GIS — Berks County, Pennsylvania open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-2aa5f9a62601a10058401ead83f3dc3cb649adfa03f7f1610bffe9bbf8255b42",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-bdc808b5d84c015abd2f1e5174470fd1d72c9e9413b89e7836867480e0cd7c12",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
